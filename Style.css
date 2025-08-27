@@ -35,6 +35,22 @@ width: auto;
 padding-bottom: 200px;
 background-color: white;
 margin-right: 900px;
- padding: 5px 30px
- 
+ padding:0px;
+ display: block;
+ position: absolute;
+ top: 0;
+ left: 0;
+
+}
+
+.footer-bottom {
+  background: #006f3c;
+  color: #fff;
+  padding: 40px 20px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding-bottom: 10px;
+  margin-top: 20px;
+  position:sticky;
+
 }
