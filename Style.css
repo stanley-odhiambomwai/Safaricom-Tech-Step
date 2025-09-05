@@ -51,7 +51,7 @@ body {
 }
 
 .about{
-  
+    max-width: 1000px;
 }
 .footer-bottom {
   background: #006f3c;
