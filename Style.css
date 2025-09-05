@@ -52,6 +52,7 @@ body {
 
 .about{
     max-width: 1000px;
+      margin: 50px auto;
 }
 .footer-bottom {
   background: #006f3c;
