@@ -53,6 +53,7 @@ body {
 .about{
     max-width: 1000px;
       margin: 50px auto;
+      padding: 40px;
 }
 .footer-bottom {
   background: #006f3c;
