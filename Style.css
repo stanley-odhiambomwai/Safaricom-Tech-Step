@@ -54,6 +54,9 @@ body {
     max-width: 1000px;
       margin: 50px auto;
       padding: 40px;
+       background: #ffffff;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
 .footer-bottom {
   background: #006f3c;
